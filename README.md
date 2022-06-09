@@ -12,4 +12,4 @@ Hi guys! Incontinuation with cv basics let us expore some basic operations that 
 
 The outputs are given output folder.
 
-Hope you had fun coding!!!
+**Hope you had fun coding!!!**
