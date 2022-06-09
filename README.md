@@ -1,5 +1,5 @@
 # cv_basic_operations
-Hi guys! Incontinuation with cv basics let us expore some basic operations that can be performed with cv,
+Hi guys! In continuation with cv basics let us expore some basic operations that can be performed with cv,
 1. Image details
 2. Image pixel value
 3. Split the bgr channels
