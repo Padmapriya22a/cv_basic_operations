@@ -1,1 +1,1 @@
-# cv_basic_opreations
+# cv_basic_operations
