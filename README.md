@@ -10,6 +10,6 @@ Hi guys! Incontinuation with cv basics let us expore some basic operations that 
 8. ROI
 9. Arithmetic operations on images
 
-The outputs are given output folder.
+The outputs are given in output folder.
 
 **Hope you had fun coding!!!**
